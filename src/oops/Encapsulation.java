@@ -6,6 +6,9 @@ public class Encapsulation {
 		
 		
 		System.out.println("I am performing encapsulation");
+		System.out.println("I am performing encapsulation");
+		System.out.println("I am performing encapsulation");
+		System.out.println("I am performing encapsulation");
 	}
 
 }
