@@ -1,0 +1,18 @@
+package oops;
+
+public class Abstrct {
+	
+	static String name ="jawad";
+	static String lastName="qureshi";
+	
+	public static void main(String[] args) {
+	
+		Abstrct a=newAbstrct();
+		p.display(name);
+		p.display(name, lastName);
+	}
+	
+	public void display(String name) {
+		System.out.println("my name is :"+name);
+		
+	}
