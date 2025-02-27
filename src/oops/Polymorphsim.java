@@ -8,6 +8,7 @@ public class Polymorphsim {
 	public static void main(String[] args) {
 	
 		Polymorphsim p=new Polymorphsim();
+		p.display();
 	}
 	
 	public void display() {
